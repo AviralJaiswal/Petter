@@ -1,23 +1,119 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/kitter)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/kitter?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/kitter?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/xOCeFuhDocA?style=social)](https://youtu.be/xOCeFuhDocA)
+# 🐾 Petter – Petshop eCommerce Website
 
-  <br />
-  <br />
+Petter is a **fully responsive petshop eCommerce website** designed to showcase pet products with a clean, modern, and user‑friendly interface. The project is built using **HTML, CSS, and JavaScript** and works seamlessly across all screen sizes.
 
-  <h2 align="center">Kitter - Petshop eCommerce Website</h2>
+This version is maintained and presented under **your GitHub profile** for learning, practice, and portfolio purposes.
 
-  Kitter is a fully responsive petshop ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+---
 
-  <a href="https://codewithsadee.github.io/kitter/"><strong>➥ Live Demo</strong></a>
+## 🌐 Live Demo
 
-</div>
+🔗 [https://codewithsadee.github.io/kitter/](https://codewithsadee.github.io/kitter/)
 
-<br />
+---
+
+## 🖥️ Demo Screenshots
+
+### Desktop View
+
+*(Add screenshots here once uploaded to your repository)*
+
+---
+
+## 🚀 Features
+
+* Fully responsive design (mobile, tablet & desktop)
+* Clean and modern UI for a petshop eCommerce platform
+* Product showcase layout
+* Smooth navigation and user experience
+* Lightweight and fast loading
+* Pure frontend project (no backend required)
+
+---
+
+## 🛠️ Tech Stack
+
+* **HTML5** – Structure
+* **CSS3** – Styling & responsiveness
+* **JavaScript** – Interactivity
+
+---
+
+## 📦 Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+* **Git** on your operating system
+* Any modern **web browser** (Chrome, Edge, Firefox, etc.)
+
+---
+
+## ▶️ Run Locally
+
+To run this project locally, follow the steps below:
+
+### Clone the repository
+
+#### Linux / macOS
+
+```bash
+sudo git clone https://github.com/YOUR_USERNAME/kitter.git
+```
+
+#### Windows
+
+```bash
+git clone https://github.com/YOUR_USERNAME/kitter.git
+```
+
+### Navigate to the project folder
+
+```bash
+cd kitter
+```
+
+### Open in browser
+
+Simply open the `index.html` file in your browser.
+
+---
+
+## 📂 Project Structure
+
+```
+kitter/
+├── assets/
+│   ├── css/
+│   ├── images/
+│   └── js/
+├── index.html
+└── README.md
+```
+
+---
+
+## 📌 Use Case
+
+This project is ideal for:
+
+* Frontend practice
+* UI/UX inspiration
+* College mini projects
+* Portfolio website showcase
+
+---
+
+## 📧 Contact
+
+For queries or collaboration, feel free to reach out:
+
+📩 **Email:** [avijai2004@gmail.com](mailto:avijai2004@gmail.com)  
+💼 **LinkedIn:** https://www.linkedin.com/in/avi-jaiswal12/
+
+---
+
+⭐ If you like this project, consider giving it a star!
+
 
 ### Demo Screeshots
 
@@ -45,10 +141,3 @@ Windows:
 git clone https://github.com/codewithsadee/kitter.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
