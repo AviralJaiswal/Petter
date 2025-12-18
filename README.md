@@ -8,7 +8,7 @@ This version is maintained and presented under **your GitHub profile** for learn
 
 ## 🌐 Live Demo
 
-🔗 [https://codewithsadee.github.io/kitter/](https://codewithsadee.github.io/kitter/)
+🔗 https://aviraljaiswal.github.io/Petter/
 
 ---
 
